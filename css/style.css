@@ -1,0 +1,134 @@
+
+
+
+body{
+    margin:0;
+    padding:0;
+    font-family: 'playfair Display', serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #626262;
+
+}
+header{ 
+        padding: 30px 0;
+
+}
+.container{
+  
+    margin: 0 auto;
+    overflow: hidden;
+     width:90%;
+    
+
+}
+.logo{
+       margin-top: 10px;
+       width:12%; 
+       float: left;
+
+
+}
+.logo a{}
+.logo a img{
+       width:100%;
+
+}
+.menu{
+      width: 70%;
+      
+      float:right;
+
+
+}
+.menu ul{
+	  float: right;
+      list-style: none;
+
+}
+.menu ul li{
+      float: left;	
+}
+.menu ul li a{
+	   margin: 0 60px;
+	   display: inline-block; 
+	   color: #626262;
+	   text-decoration: none;
+	   text-transform: uppercase;
+}
+.menu ul li a:hover{}
+.menu ul li a:last-child a{
+	    margin-right: 0;
+}
+.banner{}
+.b_content{}
+.b_content img{
+              width: 100%;           
+}
+ 
+ .getaway{
+         padding: 80px 0;
+ }
+ .container2{
+         margin: 0  auto;
+          width: 80%;
+         
+ }
+ .g-content{}
+ .c_light{
+          margin: 0;
+          font-family:'ubuntu', sans-serif;
+          font-size: 14px;
+          font-weight: 300;
+          color:#b4ad9e;   
+          text-transform:uppercase;
+ }
+  .c_title{
+         margin: 0;
+         font-size: 30px;
+         font-weight: 400;
+
+  }
+  .m_t_b{
+         margin-top: 20px;
+         margin-bottom: 30px;
+  }
+  .c_text{
+          margin: 0;
+          line-height:25px;
+
+  
+}
+
+.m_b{
+     margin-bottom: 45px;
+
+}
+.blog{
+     padding: 80px;
+     
+
+    
+}
+.blog_content{
+         overflow: hidden;
+}
+.b_single: {
+        margin-bottom: 65px;
+        width: 47%;
+        float:left;
+}
+.b_img{
+       margin-bottom: 30px;
+}
+.b_single nth-child(even){
+
+       margin-left: 6%;
+}
+.b_img img{
+       width:100%;
+     }
+.mtb{
+     margin-top: 25px;
+     margin-bottom: 35px; 
+}
